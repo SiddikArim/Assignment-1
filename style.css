@@ -1,0 +1,28 @@
+#color-edit {
+    color: rgb(255, 204, 137);
+}
+body{
+   font-family: 'Montserrat', sans-serif;}
+section{
+    display: flex;
+}   
+.top-section {
+   width: 40%;
+   padding-left: 10%;
+   padding-top: 6%;
+}
+#border-left{
+    border-left: 6px solid ;
+    border-image: linear-gradient(#e66465, #9198e5);
+    border-image-slice: 1;
+}
+.img {
+   width: 40%;
+}
+.anchor-button{
+   background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c); 
+   padding: 10px 30px;
+   border-radius: 5px; 
+   text-decoration: none;
+   font-weight: 700;
+}
