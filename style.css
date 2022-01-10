@@ -26,3 +26,45 @@ section{
    text-decoration: none;
    font-weight: 700;
 }
+#mission {
+    color: cornflowerblue;
+}
+.align-h1{
+    text-align: center;
+}
+#scroll{
+    padding-top: 35px;
+    color: rgb(248, 177, 119);
+}
+.cartoons{ 
+    width: 60%;
+    padding: 10px;
+}
+.illustrators{
+    border-radius: 20px;
+    margin-right: 15%;
+    margin-left:20px ;
+}
+#illus-1{ padding-left: 5px;
+    margin-left: 140px;
+    background-color: darkgray;
+    width: 20%;
+}
+#illus-2{ width: 20%;
+        background-color: darksalmon; padding-left: 15px;
+}
+#illus-3{ width: 20%;
+        background-color: darkseagreen; padding-left: 15px;
+}
+#advicers{
+    padding: 15%;
+}
+#old{
+    padding-top: 15%;
+    border-radius: 25px;
+    padding-left: 25%;
+    width: 60%;
+}
+#old-right{
+    padding-left: 5%;
+}
