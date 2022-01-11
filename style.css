@@ -75,3 +75,26 @@ section{
 .purple{
     color: darkviolet;
 }
+footer{
+    background-color: black;
+    color: blanchedalmond;
+    height: 10%;
+    padding: 5px;
+}
+#footer{
+    text-align: center;
+    height: 10%;
+    color: blanchedalmond;
+}
+#orange{
+    color: rgb(241, 148, 114);
+}
+#c{
+    font-size: 80px;
+}
+h5{
+    text-align: center;
+}
+.c{
+    text-align: right;
+}
